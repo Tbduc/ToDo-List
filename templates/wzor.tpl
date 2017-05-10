@@ -11,12 +11,12 @@
 		<div class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
-					<a href="http://alx.pl" class="navbar-brand">do zrobienia</a>
+					<a href="https://github.com/Tbduc" class="navbar-brand">do zrobienia</a>
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li><a href="http://alx.pl">dokumentacja</a></li>
-						<li><a href="http://alx.pl">konto</a></li>
+						<li><a href="https://github.com/Tbduc">dokumentacja</a></li>
+						<li><a href="https://github.com/Tbduc">konto</a></li>
 						<li><a href="formularz_logowania.php">zaloguj się</a></li>
 					</ul>
 				</div>
@@ -30,7 +30,7 @@
 						Dzięki tej świetnej aplikacji już nigdy nie zapomnisz, co masz zrobić i kiedy. Wersja próbna jest darmowa, wersja płatna już od 100 zł za miesiąc.
 					</p>
 					<p>
-						<a href="http://alx.pl" class="btn btn-primary btn-lg" role="button">zarejestruj się</a>
+						<a href="https://github.com/Tbduc" class="btn btn-primary btn-lg" role="button">zarejestruj się</a>
 					</p>
 				</div>
 			</div>
@@ -44,7 +44,7 @@
 			</div>
 			<hr>
 			<footer>
-				<small>&copy; Piotr Sobolewski 2013</small>
+				<small>&copy; Trung Bui Duc 2013</small>
 			</footer>
 		</div>
 	</body>
